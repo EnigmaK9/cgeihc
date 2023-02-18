@@ -90,7 +90,7 @@ void setupShaders()
 	glAttachShader(shaderProgramRed, fragmentShaderRed);
 	glLinkProgram(shaderProgramRed);
 
-	//Check for errors 
+	//Check for errors
 
 	glDeleteShader(vertexShader);
 	glDeleteShader(fragmentShaderRed);
@@ -133,7 +133,7 @@ int main()
 
 	myData();
 	setupShaders();
-    
+
 
     // render loop
     // While the windows is not closed
@@ -150,7 +150,7 @@ int main()
 
 
 		//Display section
-		glBindVertexArray(VAO);                  
+		glBindVertexArray(VAO);
 		glBindBuffer(GL_ARRAY_BUFFER, VBO);
 		//glDrawArrays(GL_POINTS, 0, 1);
 		glBindVertexArray(0);
