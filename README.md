@@ -1,5 +1,5 @@
 # cgeihc
-Este repositorio contiene ejemplos básicos de OpenGL del laboratorio de computación gráfica.
+Este repositorio contiene ejemplos de OpenGL del laboratorio de computación gráfica.
 
 ## Requisitos
 Para compilar y ejecutar el programa es necesario tener instalados los siguientes paquetes:
@@ -25,9 +25,9 @@ Para ejecutar el programa, simplemente hay que ejecutar el archivo main:
 ./main
 
 ## Referencias
-Documentación de OpenGL
-Documentación de GLUT
-Tutorial de OpenGL y GLUT en C++
+- [Documentación de OpenGL](https://www.opengl.org/documentation/)
+- [Documentación de GLUT](https://www.opengl.org/resources/libraries/glut/)
+- [Tutorial de OpenGL y GLUT en C++](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-2-the-first-triangle/)
 
 ## Licencia
-Este programa se distribuye bajo la licencia MIT. Puedes ver los detalles en el archivo LICENSE.
+Este programa se distribuye bajo la licencia MIT. Puedes ver los detalles en el archivo [LICENSE](LICENSE)we.
