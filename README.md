@@ -31,4 +31,4 @@ Para ejecutar el programa, simplemente hay que ejecutar el archivo main:
 - [Tutorial de OpenGL y GLUT en C++](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-2-the-first-triangle/)
 
 ## Licencia
-Este programa se distribuye bajo la licencia MIT. Puedes ver los detalles en el archivo [LICENSE](LICENSE)we.
+Este programa se distribuye bajo la licencia MIT. Puedes ver los detalles en el archivo [LICENSE](LICENSE).
