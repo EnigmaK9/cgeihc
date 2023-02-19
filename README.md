@@ -4,13 +4,10 @@ Este repositorio contiene ejemplos de OpenGL del laboratorio de computaci√≥n gr√
 ## Requisitos
 Para compilar y ejecutar el programa es necesario tener instalados los siguientes paquetes:
 
-g++
-```freeglut3-dev```
+``` g++ freeglut3-dev```
 
 
 En sistemas basados en Debian/Ubuntu se pueden instalar con el siguiente comando:
-
-csharp
 
 ```sudo apt-get install g++ freeglut3-dev```
 
